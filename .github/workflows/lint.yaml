@@ -22,4 +22,4 @@ jobs:
           token: ${{ SECRETS.GITHUB_TOKEN }}
     - name: Lint
       run: |
-        selene ./src
+        selene src
