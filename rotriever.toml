@@ -1,0 +1,6 @@
+[package]
+name = "howmanysmall/SmallOctree"
+version = "1.0.0"
+author = "howmanysmall"
+content_root = "./src"
+license = "MIT"

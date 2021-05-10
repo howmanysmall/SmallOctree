@@ -1,0 +1,14 @@
+{
+	"name": "SmallOctree",
+	"globIgnorePaths": [],
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+			"$ignoreUnknownInstances": true,
+			"SmallOctree": {
+				"$path": "src"
+			}
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"name": "SmallOctree",
+	"globIgnorePaths": [],
+	"tree": {
+		"$path": "src"
+	}
+}
