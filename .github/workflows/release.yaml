@@ -31,7 +31,9 @@ jobs:
           DRAFT_RELEASE: "false"
           PRE_RELEASE: "false"
           ALLOW_EMPTY_CHANGELOG: "true"
-          ALLOW_TAG_PREFIX: "true"
+          ALLOW_TAG_PREFIX: "false"
+          CHANGELOG_FILE: "CHANGELOG.md"
+          RELEASE_NAME_PREFIX: "SmallOctree"
         with:
           args: |
               ./SmallOctree.rbxm
